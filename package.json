@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Blak3Nick/website-dev/issues"
   },
-  "homepage": "https://github.com/Blak3Nick/website-dev#readme"
+  "homepage": "https://github.com/Blak3Nick/website-dev#readme",
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
 }
